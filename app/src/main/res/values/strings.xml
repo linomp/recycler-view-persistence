@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Votaciones LMP</string>
+    <string name="modalidad">Modalidad</string>
+    <string name="cne">CNE</string>
+    <string name="votante">Votante</string>
+    <string name="title_activity_candidates">Candidatos a Alcalde</string>
+    <string name="title_activity_voting">Votar</string>
+    <string name="file_created_msg">Archivo inicial creado!</string>
+    <string name="votos">Votos:</string>
+    <string name="confirmacion">Confirmación</string>
+    <string name="mensaje_confirmacion">Desea votar por</string>
+    <string name="nombre">Nombre del candidato</string>
+    <string name="edit_candidate">Editar Candidato</string>
+    <string name="campo_vacio">Ingrese un nombre válido</string>
+    <string name="duplicado">Nombre duplicado</string>
+    <string name="votos_reset">Votos reseteados</string>
+    <string name="datos_reset">Cargar datos de prueba</string>
+    <string name="reiniciar_votos">Resetear votos</string>
+    <string name="candidato_eliminado">Candidato eliminado: </string>
+</resources>
